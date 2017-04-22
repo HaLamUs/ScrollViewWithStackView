@@ -26,6 +26,11 @@ class ViewController2: UIViewController, ContainerDelegate {
     container.addSubview(childVC!.view)
     childVC?.didMove(toParentViewController: self)
     
+       
+    //for tickMark in 0..<minutes {
+      // render the tick mark each minute (60 times)
+    //}
+    
   }
   
   func testContainer() {

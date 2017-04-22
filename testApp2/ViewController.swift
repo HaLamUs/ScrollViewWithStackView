@@ -33,6 +33,11 @@ class ViewController: UIViewController, ContainerDelegate {
     container.addSubview(childVC!.view)
     childVC?.didMove(toParentViewController: self)
     
+    for _ in 0..<0 {
+      print("Lam")
+    }
+
+    
   }
   
   func testContainer() {
