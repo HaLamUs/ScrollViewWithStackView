@@ -9,5 +9,10 @@ Expand/Collapse View</b> </br>
 3. Tap Button -> Hide View
 <br>Tadaa. Done </br>
 
+# Show case
+
+https://www.youtube.com/watch?v=Ph6Ntyo6fvg
+
+
 # Author
 HaLam - © 2017
